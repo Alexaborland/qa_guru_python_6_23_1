@@ -4,7 +4,7 @@ import pytest
 from selene import browser, support
 from appium import webdriver
 from appium.options.ios import XCUITestOptions
-from util.utils import allure_helper
+from utils import allure_helper
 import project
 
 
