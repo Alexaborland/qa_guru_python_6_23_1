@@ -4,7 +4,7 @@ import pytest
 from selene import browser, support
 from appium import webdriver
 from appium.options.android import UiAutomator2Options
-from tests.utils import allure_helper
+from utils import allure_helper
 import project
 
 
